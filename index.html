@@ -13,15 +13,17 @@
 
         .content {
             margin-top: 32px;
-            margin-left: 96px;
-            margin-right: 96px;
-            flex: 1;
+            max-width: 800px;
             display: flex;
             flex-direction: row;
         }
 
         .left {
             flex: 1;
+            margin-top: 179px;
+            display: flex;
+            flex-direction: column;
+            margin-right: 64px;
         }
 
         .right {
@@ -32,6 +34,7 @@
             font-size: 40px;
             font-weight: 600;
             margin-bottom: 32px;
+            text-transform: uppercase;
         }
 
         .headline .accent {
@@ -41,12 +44,51 @@
         .banner {
             width: 328px;
         }
+
+        .copyright {
+            margin-top: 24px;
+            font-size: 12px;
+            text-transform: uppercase;
+        }
+
+        .nav-section {
+            margin-top: 12px;
+        }
+
+        .nav-section.first {
+            margin-top: 0;
+        }
+
+        .nav-section .header {
+            font-size: 28px;
+        }
+
+        a {
+            color: inherit;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+            color: green;
+        }
     </style>
 </head>
 <body>
     <div class="content">
         <div class="left">
-
+            <div class="nav-section first">
+                <a href="https://reddit.com/r/wallstreetbets" class="header">GLOBAL FD STRATEGIES</a>
+            </div>
+            <div class="nav-section">
+                <a href="https://twitter.com/elonmusk" class="header">$TSLA YOLO LONGS</a>
+            </div>
+            <div class="nav-section">
+                <a href="https://www.bitmex.com/" class="header">HIGH LEVERAGE CRYPTO</a>
+            </div>
+            <div class="nav-section">
+                <a href="https://www.cbssports.com/video/player/team:MLB:NYY/1208005187855/0/red-sox-defeat-yankees-14-1" class="header">SPORTS BETTING</a>
+            </div>
         </div>
         <div class="right">
             <div class="headline">
@@ -54,6 +96,9 @@
             </div>
             <div>
                 <img src="banner.png" class="banner" />
+            </div>
+            <div class="copyright">
+                &copy; 2018 the dappy hiwali group
             </div>
         </div>
     </div>
