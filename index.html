@@ -66,11 +66,44 @@
         a {
             color: inherit;
             text-decoration: none;
+            position: relative;
         }
 
         a:hover {
-            text-decoration: underline;
             color: green;
+        }
+
+        a:before {
+            content: "";
+            position: absolute;
+            width: 0;
+            height: 2px;
+            bottom: 0;
+            left: 0;
+            background-color: green;
+            visibility: hidden;
+            -webkit-transition: ease-out 0.3s;
+            transition: ease-out 0.2s;
+            -webkit-transition-property: width;
+            transition-property: width;
+        }
+
+        a:hover:before {
+            visibility: visible;
+            width: 100%;
+        }
+
+        .contact {
+            margin-top: 20px;
+            font-size: 12px;
+        }
+
+        .contact a {
+            color: green;
+        }
+
+        .contact a:before {
+            height: 1px;
         }
     </style>
 </head>
@@ -88,6 +121,9 @@
             </div>
             <div class="nav-section">
                 <a href="https://www.cbssports.com/video/player/team:MLB:NYY/1208005187855/0/red-sox-defeat-yankees-14-1" class="header">SPORTS BETTING</a>
+            </div>
+            <div class="contact">
+                <a href="mailto:contactvictor (at) mit.edu">contactvictor (at) mit.edu</a>
             </div>
         </div>
         <div class="right">
