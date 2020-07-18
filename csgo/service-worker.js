@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/csgo/precache-manifest.9b18dccb60ea8e949092f7157e94272f.js"
+  "/csgo/precache-manifest.79c59f90acd0af5d726037590fe217a1.js"
 );
 
 self.addEventListener('message', (event) => {

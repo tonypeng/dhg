@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "98b11474f9d15a40bbfe52f2e8cd3313",
+    "revision": "bdea70856794ee4c42cd9e19f1cf5062",
     "url": "/csgo/index.html"
   },
   {
-    "revision": "ad4316116fb95e42817b",
+    "revision": "312e9e3207b684238322",
     "url": "/csgo/static/css/main.22c4a0cf.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/csgo/static/js/2.0e37751d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ad4316116fb95e42817b",
-    "url": "/csgo/static/js/main.b3c3b777.chunk.js"
+    "revision": "312e9e3207b684238322",
+    "url": "/csgo/static/js/main.5c36ca33.chunk.js"
   },
   {
     "revision": "e87e42405c97c63edba9",
