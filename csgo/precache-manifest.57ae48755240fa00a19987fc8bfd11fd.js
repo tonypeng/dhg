@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bdea70856794ee4c42cd9e19f1cf5062",
+    "revision": "175406d2d7735f12311a6b70fd4386fd",
     "url": "/csgo/index.html"
   },
   {
-    "revision": "312e9e3207b684238322",
-    "url": "/csgo/static/css/main.22c4a0cf.chunk.css"
+    "revision": "228b2716ac3ad808337f",
+    "url": "/csgo/static/css/main.9372fbf7.chunk.css"
   },
   {
     "revision": "8cf03d8406878a8e5af3",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/csgo/static/js/2.0e37751d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "312e9e3207b684238322",
-    "url": "/csgo/static/js/main.5c36ca33.chunk.js"
+    "revision": "228b2716ac3ad808337f",
+    "url": "/csgo/static/js/main.d7f98cd6.chunk.js"
   },
   {
     "revision": "e87e42405c97c63edba9",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/csgo/static/media/arjoon_logo.3e594fe3.png"
   },
   {
-    "revision": "a8ec7fe62ac7af3d9b74f708ab123c86",
-    "url": "/csgo/static/media/asstralis.a8ec7fe6.png"
+    "revision": "0682ae907ce1726acf56b27e0c9bfc9e",
+    "url": "/csgo/static/media/asstralis.0682ae90.png"
   },
   {
     "revision": "d2f91ca94f74f9b83ce2ad1897b2bd4b",
