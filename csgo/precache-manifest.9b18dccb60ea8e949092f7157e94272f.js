@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05ee1b05d66de395b2907a7e63dfe719",
+    "revision": "98b11474f9d15a40bbfe52f2e8cd3313",
     "url": "/csgo/index.html"
   },
   {
