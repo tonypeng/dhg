@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.22c4a0cf.chunk.css",
+    "main.js": "/static/js/main.54e8b49f.chunk.js",
+    "main.js.map": "/static/js/main.54e8b49f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1ad2124c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1ad2124c.js.map",
+    "static/js/2.0e37751d.chunk.js": "/static/js/2.0e37751d.chunk.js",
+    "static/js/2.0e37751d.chunk.js.map": "/static/js/2.0e37751d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8019d6a21eba9ed9d55ee13e0a2f6d1f.js": "/precache-manifest.8019d6a21eba9ed9d55ee13e0a2f6d1f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.22c4a0cf.chunk.css.map": "/static/css/main.22c4a0cf.chunk.css.map",
+    "static/js/2.0e37751d.chunk.js.LICENSE.txt": "/static/js/2.0e37751d.chunk.js.LICENSE.txt",
+    "static/media/arjoon_logo.png": "/static/media/arjoon_logo.3e594fe3.png",
+    "static/media/asstralis.png": "/static/media/asstralis.a8ec7fe6.png",
+    "static/media/csgo_logo.png": "/static/media/csgo_logo.d2f91ca9.png",
+    "static/media/drooler_nation.png": "/static/media/drooler_nation.9d035360.png",
+    "static/media/dust2_blurred.png": "/static/media/dust2_blurred.3a7c551c.png",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ad2124c.js",
+    "static/js/2.0e37751d.chunk.js",
+    "static/css/main.22c4a0cf.chunk.css",
+    "static/js/main.54e8b49f.chunk.js"
+  ]
+}
